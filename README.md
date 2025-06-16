@@ -1,5 +1,7 @@
 ### study of basic gates
-
+Name : Abisheik Raj J
+Reg no:212224230006
+Date:18/03/2025
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
