@@ -1,6 +1,8 @@
 ### study of basic gates
 Name : Abisheik Raj J
+
 Reg no:212224230006
+
 Date:18/03/2025
 **AIM:** 
 
